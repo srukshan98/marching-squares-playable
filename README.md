@@ -1,4 +1,4 @@
-# matching-squares-playable
+# Marching Squares Playable
 
 Typescript Version of Marching squares with a little playable part.
 
